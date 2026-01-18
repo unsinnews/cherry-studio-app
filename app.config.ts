@@ -18,7 +18,7 @@ export default {
     newArchEnabled: true,
     entryPoint: './src/app.js',
     updates: {
-      url: 'https://u.expo.dev/80096eaf-3ad0-4b87-a466-15f04da1bacc'
+      url: 'https://u.expo.dev/55dac3f5-38c9-4f22-a51f-80df7baba28a'
     },
     runtimeVersion: {
       policy: 'appVersion'
