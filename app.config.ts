@@ -177,9 +177,7 @@ export default {
     },
     extra: {
       eas: {
-        // TODO: 替换为你自己的Expo项目ID
-        // 运行 `npx eas build:configure` 自动生成，或从 https://expo.dev 获取
-        projectId: '80096eaf-3ad0-4b87-a466-15f04da1bacc'
+        projectId: '55dac3f5-38c9-4f22-a51f-80df7baba28a'
       },
       appVersion
     }
