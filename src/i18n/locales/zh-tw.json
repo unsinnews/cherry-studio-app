@@ -1,0 +1,1075 @@
+{
+  "translation": {
+    "assistants": {
+      "market": {
+        "add": {
+          "success": "新增 {{assistant_name}} 成功"
+        },
+        "button": {
+          "chat": "立即聊天"
+        },
+        "groups": {
+          "all": "全部",
+          "business": "商業",
+          "career": "職業",
+          "language": "語言",
+          "tools": "工具"
+        },
+        "my_assistant": "我的助手",
+        "popular": "熱門助理",
+        "search_placeholder": "搜尋助理...",
+        "title": "助理市場"
+      },
+      "multi_select": {
+        "action": "複選",
+        "delete_confirm_message": "這將同時刪除這些助理的所有對話。此操作無法撤銷。",
+        "delete_confirm_title": "刪除 {{count}} 個助理？",
+        "delete_success": "已刪除 {{count}} 個助理",
+        "selected_count": "已選擇 {{count}} 項"
+      },
+      "name": "助理名稱",
+      "save": "保存助理",
+      "search": {
+        "no_results": "找不到助手"
+      },
+      "settings": {
+        "context": "語境",
+        "max_tokens": "啟用最大令牌限制",
+        "max_tokens_value": "最大令牌限制",
+        "reasoning": {
+          "auto": "自動",
+          "high": "高",
+          "label": "推理努力",
+          "low": "低",
+          "medium": "中",
+          "minimal": "微念",
+          "none": "關閉",
+          "off": "關閉"
+        },
+        "stream_output": "串流輸出",
+        "temperature": "溫度",
+        "tooluse": {
+          "empty": "未設定工具調用方式",
+          "function": "函數呼叫",
+          "prompt": "提示詞呼叫",
+          "title": "工具呼叫方式"
+        },
+        "top_p": "Top P",
+        "unlimited_context": "啟用最大上下文限制"
+      },
+      "sort": {
+        "alphabetical": "按字母順序排列的",
+        "recent_add": "最近新增",
+        "recent_use": "最近使用",
+        "title": "排序助理"
+      },
+      "title": {
+        "change": "切換助手",
+        "create": "建立助理",
+        "edit": "編輯助理",
+        "label": "助手",
+        "mine": "我的助手",
+        "recent": "最近的助手"
+      },
+      "topics": {
+        "count_one": "1 個話題",
+        "count_other": "{{count}} 個話題"
+      }
+    },
+    "button": {
+      "add": "新增",
+      "best_answer": "最佳回答",
+      "checking": "檢查中...",
+      "generate_topic_name": "生成話題名稱",
+      "image_generate": "圖像生成",
+      "manage": "管理",
+      "multiple": "複選",
+      "placeholder": "隨便問些什麼",
+      "recents": "最近",
+      "rename_topic_name": "編輯話題名稱",
+      "save": "保存",
+      "save_image": "保存到“照片”",
+      "select_model": "選擇模型",
+      "share": "分享",
+      "sort": "排序",
+      "start_check_model": "讓我們開始",
+      "success": "成功！",
+      "tag": "標籤",
+      "web_search": "在線搜尋"
+    },
+    "chat": {
+      "assistant": {
+        "search": {
+          "placeholder": "搜尋助理"
+        }
+      },
+      "citation": "+ {{count}} 個來源",
+      "default": {
+        "name": "預設"
+      },
+      "think": "思考中，{{seconds}}秒",
+      "think_done": "已深度思考 {{seconds}} 秒",
+      "think_expand": "點擊讀懂我的心",
+      "title": "歡迎使用 Cherry Studio!",
+      "topics": {
+        "list": "清單",
+        "search": {
+          "results": "結果"
+        },
+        "title": "主題"
+      },
+      "welcome": "我是您的生產力 AI 助手。您可以建立助理、管理模型等。"
+    },
+    "common": {
+      "add": "新增",
+      "added": "已添加",
+      "camera": "相機",
+      "cancel": "取消",
+      "check": "開始檢查",
+      "cherry_studio": "Cherry Studio",
+      "cherry_studio_description": "強大的 AI 生產力助手",
+      "clear_all": "清除全部",
+      "close": "關閉",
+      "confirm": "確認",
+      "content_too_long": "內容過長無法展示",
+      "copied": "已複製",
+      "copy": "複製文本",
+      "copy_latex": "複製為 LaTeX",
+      "delete": "刪除",
+      "delete_translation": "刪除翻譯",
+      "description": "描述",
+      "detail": "詳細",
+      "edit": "編輯",
+      "enabled": "已啟用",
+      "error_occurred": "發生錯誤",
+      "file": "檔案",
+      "generateImage": "建立圖片",
+      "go_to_settings": "前往設定",
+      "import_from_cherry_studio": "從 Cherry Studio 導入",
+      "language": "語言",
+      "last_month": "上個月",
+      "last_week": "上週",
+      "loading": "載入中...",
+      "login": "登入",
+      "manage": "管理",
+      "model": "模型",
+      "name": "名稱",
+      "ok": "確定",
+      "older": "較舊",
+      "others": "其他人",
+      "parameters": "參數",
+      "photo": "相片",
+      "play": "播放",
+      "preset": "預設",
+      "prompt": "提示詞",
+      "regenerate": "重新生成",
+      "rename": "重新命名",
+      "result": "結果",
+      "save": "儲存",
+      "saved": "保存",
+      "search_placeholder": "搜尋...",
+      "see_all": "查看全部",
+      "select_all": "全選",
+      "source": "來源",
+      "start": "開始使用Cherry Studio App 🎉",
+      "stop": "停止",
+      "this_week": "本週",
+      "today": "今天",
+      "tool": "工具",
+      "translate": "翻譯",
+      "type": "類型",
+      "url": "URL",
+      "visit": "訪問",
+      "websearch": "網路搜尋",
+      "welcome": {
+        "message1": "歡迎使用 Cherry Studio",
+        "message2": "開始創作，享受無限可能！"
+      },
+      "yesterday": "昨天"
+    },
+    "error": {
+      "ai_feature": {
+        "not_available": "AI 功能不可用",
+        "update_failed": "AI 功能更新失敗，請重試"
+      },
+      "availableProviders": "可用供應商",
+      "availableTools": "可用工具",
+      "backup": {
+        "file_format": "備份檔案格式錯誤",
+        "file_invalid": "備份檔案無效，需在Cherry Studio中透過匯出至行動裝置取得",
+        "title": "備份失敗"
+      },
+      "camera": {
+        "failed": "拍照失敗，請重試",
+        "file_not_found": "照片檔案未找到"
+      },
+      "cause": "原因",
+      "chat": {
+        "response": "出錯了，如果沒有設定 API 金鑰，請前往 設定 > 模型供應商 中設定金鑰"
+      },
+      "content": "內容",
+      "data": "資料",
+      "detail": "錯誤詳情",
+      "errors": "錯誤清單",
+      "finishReason": "完成原因",
+      "functionality": "功能",
+      "http": {
+        "400": "請求錯誤，請檢查請求參數是否正確。如果修改了模型設定，請重設為預設設定",
+        "401": "身份驗證失敗，請檢查 API 金鑰是否正確",
+        "403": "禁止存取，請翻譯具體錯誤訊息查看原因，或聯繫服務提供商詢問被禁止的原因",
+        "404": "模型不存在或請求路徑錯誤",
+        "429": "請求速率超過限制，請稍後再試",
+        "500": "伺服器錯誤，請稍後再試",
+        "502": "閘道錯誤，請稍後再試",
+        "503": "服務暫時無法使用，請稍後再試",
+        "504": "閘道器逾時，請稍後再試"
+      },
+      "lastError": "最後錯誤",
+      "maxEmbeddingsPerCall": "每次呼叫最大嵌入數",
+      "message": "錯誤訊息",
+      "missing_user_message": "無法切換模型回應：原始使用者訊息已被刪除。請發送新訊息以取得此模型之回應。",
+      "model": {
+        "exists": "模型已存在"
+      },
+      "modelId": "模型ID",
+      "modelType": "模型類型",
+      "name": "錯誤名稱",
+      "no_api_key": "API 金鑰未設定",
+      "originalError": "原始錯誤",
+      "originalMessage": "原始訊息",
+      "parameter": "參數",
+      "pause_placeholder": "已中斷",
+      "permission": {
+        "camera_denied": "相機權限被拒絕，請在設定中啟用",
+        "media_library_denied": "相簿權限被拒絕，請在設定中啟用"
+      },
+      "prompt": "提示詞",
+      "provider": "供應商",
+      "providerId": "供應商ID",
+      "provider_disabled": "模型供應商未啟用",
+      "reason": "原因",
+      "render": {
+        "description": "訊息內容渲染失敗，請檢查訊息內容格式是否正確",
+        "title": "渲染錯誤"
+      },
+      "requestBodyValues": "請求體",
+      "requestUrl": "請求地址",
+      "response": "回應",
+      "responseBody": "回應體",
+      "responseHeaders": "回應標頭",
+      "responses": "回應",
+      "role": "角色",
+      "stack": "堆疊追蹤",
+      "statusCode": "狀態碼",
+      "statusText": "狀態文本",
+      "text": "文字",
+      "toolInput": "工具輸入",
+      "toolName": "工具名稱",
+      "translate_assistant_model_not_defined": "翻譯助手模型未配置，請前往設定 > 預設助手中配置翻譯助手的模型",
+      "unknown": "未知錯誤",
+      "upload": {
+        "failed": "檔案上傳失敗，請重試"
+      },
+      "usage": "使用情形",
+      "user_message_not_found": "無法找到原始使用者訊息",
+      "value": "值",
+      "values": "值"
+    },
+    "errors": {
+      "cannotOpenLink": "無法打開連結: {{error}}",
+      "cannotOpenLinkTitle": "無法打開連結",
+      "deviceCannotHandleLink": "您的設備無法處理此連結: {{href}}",
+      "error_title": "錯誤",
+      "linkErrorTitle": "打開連結錯誤"
+    },
+    "export": {
+      "already_exporting": "正在匯出中",
+      "failed": "匯出失敗",
+      "image": "匯出為圖片",
+      "joplin": "匯出到 Joplin",
+      "md": {
+        "label": "匯出為 Markdown",
+        "reason": "匯出為 Markdown (包含思考)"
+      },
+      "notion": "匯出到 Notion",
+      "obsidian": "匯出到 Obsidian",
+      "obsidian_atributes": "配置筆記屬性",
+      "obsidian_btn": "確定",
+      "obsidian_created": "建立時間",
+      "obsidian_created_placeholder": "請選擇建立時間",
+      "obsidian_export_failed": "匯出失敗",
+      "obsidian_export_success": "匯出成功",
+      "obsidian_fetch_error": "獲取 Obsidian 保管庫失敗",
+      "obsidian_fetch_folders_error": "獲取文件夾結構失敗",
+      "obsidian_loading": "加載中...",
+      "obsidian_no_vault_selected": "請先選擇一個保管庫",
+      "obsidian_no_vaults": "未找到 Obsidian 保管庫",
+      "obsidian_operate": "處理方式",
+      "obsidian_operate_append": "追加",
+      "obsidian_operate_new_or_overwrite": "新建（如果存在就覆蓋）",
+      "obsidian_operate_placeholder": "請選擇處理方式",
+      "obsidian_operate_prepend": "前置",
+      "obsidian_path": "路徑",
+      "obsidian_path_placeholder": "請選擇路徑",
+      "obsidian_reasoning": "包含思維鏈",
+      "obsidian_root_directory": "根目錄",
+      "obsidian_select_vault_first": "請先選擇保管庫",
+      "obsidian_source": "來源",
+      "obsidian_source_placeholder": "請輸入來源",
+      "obsidian_tags": "標籤",
+      "obsidian_tags_placeholder": "請輸入標籤名稱，多個標籤用英文逗號分隔",
+      "obsidian_title": "標題",
+      "obsidian_title_placeholder": "請輸入標題",
+      "obsidian_title_required": "標題不能為空",
+      "obsidian_vault": "保管庫",
+      "obsidian_vault_placeholder": "請選擇保管庫名稱",
+      "options": {
+        "include_reasoning": "包含推理鏈",
+        "title": "匯出選項"
+      },
+      "siyuan": "匯出到思源筆記",
+      "success": "匯出成功",
+      "title": "匯出訊息",
+      "title_naming_failed": "標題生成失敗，使用預設標題",
+      "title_naming_success": "標題生成成功",
+      "wait_for_title_naming": "正在生成標題...",
+      "word": "匯出為 Word",
+      "yuque": "匯出到語雀"
+    },
+    "history": {
+      "search": {
+        "placeholder": "搜尋主題或訊息...",
+        "topics": {
+          "empty": "未找到主題，按 Enter 鍵搜索所有訊息"
+        }
+      },
+      "topics": {
+        "empty": "未找到主題"
+      }
+    },
+    "html_preview": {
+      "loading": "載入 HTML 中...",
+      "title": "HTML 預覽"
+    },
+    "inputs": {
+      "longTextConverted": {
+        "message": "貼上的文字（{{length}} 字元）已自動轉換為檔案附件",
+        "title": "長文本已轉換"
+      },
+      "mentions": "@ {{number}} 個模型",
+      "placeholder": "傳送訊息..."
+    },
+    "mcp": {
+      "auth": {
+        "auth_required_content": "MCP 伺服器「{{name}}」需要 OAuth 認證，是否現在連接？",
+        "auth_required_title": "需要認證",
+        "connect": "連接",
+        "connected": "已連接",
+        "disconnect": "斷開",
+        "headers": "自訂請求標頭",
+        "invalid_json": "JSON格式錯誤",
+        "invalid_json_content": "請輸入有效的JSON格式。",
+        "oauth": "OAuth",
+        "oauth_failed": "OAuth 認證失敗",
+        "title": "認證"
+      },
+      "builtin": {
+        "calendar": {
+          "description": "取得、作業系統日曆"
+        },
+        "fetch": {
+          "description": "從網址取得網頁內容"
+        },
+        "reminder": {
+          "description": "獲取、添加、修改、刪除提醒事項"
+        },
+        "shortcuts": {
+          "description": "執行 iOS 捷徑並取得結果"
+        },
+        "time": {
+          "description": "取得目前時間"
+        }
+      },
+      "market": {
+        "add": {
+          "success": "已添加 {{mcp_name}}"
+        },
+        "title": "MCP市場"
+      },
+      "server": {
+        "add": "新增 MCP 伺服器",
+        "delete": {
+          "content": "確定要刪除此 MCP 伺服器嗎？此操作無法撤銷。",
+          "title": "刪除伺服器"
+        },
+        "description_placeholder": "輸入 MCP 伺服器的描述...",
+        "empty": {
+          "add": "前往新增MCP伺服器",
+          "label": "暫無MCP伺服器..."
+        },
+        "new": "新 MCP 伺服器",
+        "selected": "已選擇{{num}}個MCP伺服器",
+        "title": "MCP伺服器",
+        "update_failed": "更新 {{name}} 失敗"
+      },
+      "type": {
+        "inMemory": "內建",
+        "sse": "伺服器傳送事件",
+        "streamableHttp": "StreamableHTTP"
+      }
+    },
+    "menu": {
+      "assistant": {
+        "recent": "近期助手",
+        "title": "助手"
+      },
+      "search_placeholder": "搜尋...",
+      "see_all": "查看全部",
+      "topic": {
+        "recent": "最近的主題",
+        "title": "主題"
+      }
+    },
+    "message": {
+      "assistant_deleted": "助手已刪除",
+      "delete_message": "刪除訊息",
+      "delete_message_confirmation": "您確定要刪除這條訊息嗎？",
+      "delete_topic": "刪除主題",
+      "delete_topic_confirmation": "您確定要刪除這個主題嗎？",
+      "delete_translation": "刪除翻譯",
+      "edit_failed": {
+        "content": "訊息編輯失敗，請重試",
+        "title": "編輯失敗"
+      },
+      "edit_reply": "編輯回覆",
+      "editing_message": "編輯中",
+      "marked_as_best_answer": "已標記為最佳回答",
+      "pause_failed": {
+        "content": "暫停失敗，請重試",
+        "title": "暫停失敗"
+      },
+      "searching": "搜尋中...",
+      "send_failed": {
+        "content": "訊息發送失敗，請重試",
+        "title": "發送失敗"
+      },
+      "share_message": "分享訊息",
+      "topic_deleted": "主題已刪除",
+      "translate_message": "翻譯訊息",
+      "unmarked_as_best_answer": "已取消最佳回答標記",
+      "websearch": {
+        "fetch_complete": "已完成 {{count}} 次搜尋..."
+      }
+    },
+    "models": {
+      "no_models": "暫無可用模型",
+      "type": {
+        "all": "全部",
+        "embedding": "嵌入",
+        "free": "免費",
+        "function_calling": "工具",
+        "reasoning": "推理",
+        "rerank": "重排",
+        "select": "選擇模型類型",
+        "text": "文字",
+        "vision": "視覺",
+        "websearch": "網路搜尋"
+      }
+    },
+    "profile": {
+      "avatar": "使用者個人檔案圖片",
+      "create": "前往創建",
+      "createFirstAgent": "點擊創建第一個AI智能體",
+      "editProfile": "編輯個人資料",
+      "noContent": "尚未有 {{type}} 內容"
+    },
+    "provider": {
+      "302ai": "302.AI",
+      "aihubmix": "AiHubMix",
+      "alayanew": "Alaya NeW",
+      "anthropic": "Anthropic",
+      "aws-bedrock": "AWS Bedrock",
+      "azure-openai": "Azure OpenAI",
+      "baichuan": "百川",
+      "baidu-cloud": "百度雲千帆",
+      "burncloud": "BurnCloud",
+      "cephalon": "Cephalon",
+      "cherryai": "CherryAI",
+      "cherryin": "櫻桃入",
+      "copilot": "GitHub Copilot",
+      "dashscope": "阿里雲百鍊",
+      "deepseek": "深度求索",
+      "dmxapi": "DMXAPI",
+      "doubao": "火山引擎",
+      "fireworks": "Fireworks",
+      "gemini": "Gemini",
+      "gitee-ai": "模力方舟",
+      "github": "GitHub Models",
+      "gpustack": "GPUStack",
+      "grok": "Grok",
+      "groq": "Groq",
+      "hunyuan": "騰訊混元",
+      "hyperbolic": "Hyperbolic",
+      "infini": "無問芯穹",
+      "jina": "Jina",
+      "lanyun": "藍耘",
+      "lmstudio": "LM Studio",
+      "minimax": "MiniMax",
+      "mistral": "Mistral",
+      "modelscope": "ModelScope 魔搭",
+      "moonshot": "月之暗面",
+      "new-api": "New API",
+      "nvidia": "輝達",
+      "o3": "O3",
+      "ocoolai": "ocoolAI",
+      "ollama": "Ollama",
+      "openai": "OpenAI",
+      "openrouter": "OpenRouter",
+      "perplexity": "Perplexity",
+      "ph8": "PH8 大模型開放平台",
+      "poe": "Poe",
+      "ppio": "PPIO 派歐雲",
+      "qiniu": "七牛雲 AI 推理",
+      "qwenlm": "QwenLM",
+      "silicon": "SiliconFlow",
+      "stepfun": "StepFun",
+      "tencent-cloud-ti": "騰訊雲 TI",
+      "together": "Together",
+      "tokenflux": "TokenFlux",
+      "vertexai": "Vertex AI",
+      "voyageai": "Voyage AI",
+      "xirang": "天翼雲息壤",
+      "yi": "零一萬物",
+      "zhinao": "360 智腦",
+      "zhipu": "智譜 AI"
+    },
+    "settings": {
+      "about": {
+        "contact": {
+          "button": "電子郵件",
+          "title": "聯絡我們"
+        },
+        "feedback": {
+          "button": "意見回饋",
+          "title": "意見回饋"
+        },
+        "header": "關於 & 意見回饋",
+        "license": {
+          "button": "授權",
+          "title": "授權"
+        },
+        "releases": {
+          "button": "發行版本",
+          "title": "發行說明"
+        },
+        "title": "關於我們",
+        "website": {
+          "button": "網站",
+          "title": "官方網站"
+        }
+      },
+      "assistant": {
+        "default_assistant": {
+          "description": "創建新助理時使用的助理，如果未設置助理，將使用此助理",
+          "name": "預設助理"
+        },
+        "empty": "還沒有助理...",
+        "quick_assistant": {
+          "description": "用於簡單任務的助手，例如主題命名和關鍵字提取",
+          "name": "快速幫手"
+        },
+        "show": {
+          "icon": "顯示模型圖示"
+        },
+        "title": "預設助理",
+        "translate_assistant": {
+          "description": "用於翻譯服務的助理",
+          "name": "翻譯助理"
+        }
+      },
+      "data": {
+        "app_data": "App 資料",
+        "app_data_location": "應用程式資料位置",
+        "app_knowledge": {
+          "label": "知識庫文件",
+          "remove_all": "移除檔案"
+        },
+        "app_logs": "App Logs",
+        "backup": "資料備份",
+        "basic_title": "基礎資料設定",
+        "clear_cache": {
+          "button": "清除快取 ({{cacheSize}})",
+          "error": "清除快取失敗。請重試，如果問題持續存在，請在GitHub上回報。",
+          "title": "清除快取",
+          "warning": "清除快取將刪除所有快取資料，包括快取檔案、圖片和備份。"
+        },
+        "cloud_backup": "雲端備份設定",
+        "data": {
+          "title": "資料目錄"
+        },
+        "data_reset": {
+          "error": "資料重設失敗。請重試，如果問題持續存在，請聯繫技術支援。"
+        },
+        "lan_transfer": {
+          "app_version": "應用程式版本",
+          "back_cancel_receive_body": "返回將會取消當前正在接收的檔案，是否繼續？",
+          "back_cancel_receive_title": "離開此頁面？",
+          "backup_detected_body": "檢測到備份檔案，是否進行恢復？",
+          "backup_detected_title": "檢測到備份檔案",
+          "cancel_receive": "取消接收",
+          "chunks": "分塊",
+          "connected": "已連線",
+          "device": "裝置",
+          "device_name": "裝置名稱",
+          "error": "錯誤",
+          "eta": "預計剩餘",
+          "file_status": {
+            "cancelled": "已取消",
+            "cancelling": "正在取消...",
+            "complete": "已完成",
+            "completing": "完成中...",
+            "error": "錯誤",
+            "idle": "閒置",
+            "receiving": "接收中",
+            "verifying": "校驗中..."
+          },
+          "file_transfer": "檔案傳輸",
+          "hint": "請在桌面端 Cherry Studio 中選擇此裝置傳送備份",
+          "info": "傳輸資訊",
+          "ip_address": "IP 位址",
+          "no_connection_warning": "請在Cherry Studio客戶端打開區域網傳輸",
+          "port": "連接埠",
+          "preparing": "準備中...",
+          "receiving": "正在接收檔案...",
+          "restore_confirm": "恢復",
+          "restore_later": "稍後",
+          "service": "服務",
+          "start_service": "開始接收",
+          "status": "狀態",
+          "stop_service": "停止服務",
+          "title": "區域網路傳輸",
+          "transfer_cancelled_body": "檔案傳送已取消",
+          "transfer_cancelled_title": "傳輸已取消",
+          "transfer_error": "傳輸錯誤",
+          "unknown": "未知",
+          "waiting_connection": "等待桌面端連線...",
+          "warning_content": "此操作將清除現有資料並從桌面端恢復。請先備份重要資料。",
+          "warning_title": "注意",
+          "zeroconf_error": "服務發現錯誤"
+        },
+        "log_location": "記錄檔位置",
+        "reset": "資料重置",
+        "reset_success": "資料重置成功！應用程式已恢復至初始狀態。",
+        "reset_warning": "您確定要重設所有資料嗎？這將會刪除所有對話、訊息和用戶建立的內容。此操作無法復原。",
+        "restore": {
+          "clear_error": "清除現有資料失敗，請重試。",
+          "confirm_warning": "恢復操作將使用備份資料覆蓋目前所有應用資料。",
+          "error": "恢復錯誤",
+          "error_message": "還原過程中發生錯誤。請檢查檔案並再次嘗試。",
+          "progress": {
+            "error": "恢復錯誤",
+            "error_description": "還原過程中發生錯誤。請檢查檔案並再試一次。",
+            "pending": "正在還原...",
+            "pending_description": "恢復資料中，請稍候...",
+            "success": "還原成功",
+            "success_description": "恢復成功，祝您使用愉快！"
+          },
+          "steps": {
+            "clear_data": "清理現有資料",
+            "receive_file": "接收檔案",
+            "restore_messages": "恢復訊息",
+            "restore_settings": "恢復設定"
+          },
+          "title": "資料恢復"
+        },
+        "third_party": "第三方連接",
+        "title": "資料設定"
+      },
+      "dataAndSecurity": "資料與安全性",
+      "general": {
+        "developer_mode": {
+          "title": "開發者模式"
+        },
+        "display": {
+          "title": "顯示設定"
+        },
+        "language": {
+          "title": "語言"
+        },
+        "privacy": {
+          "anonymous": "匿名回報錯誤和統計",
+          "title": "隱私設定"
+        },
+        "theme": {
+          "auto": "自動",
+          "dark": "深色",
+          "light": "淺色",
+          "title": "主題"
+        },
+        "title": "常規設定"
+      },
+      "floatingwindow": {
+        "android_only": "此功能僅支援 Android",
+        "auto_close_result": "自動關閉結果面板",
+        "auto_close_result_description": "回答顯示後自動關閉結果面板",
+        "behavior_title": "行為設定",
+        "button_size_large": "大",
+        "button_size_medium": "中",
+        "button_size_small": "小",
+        "button_size_title": "按鈕大小",
+        "enable": "啟用懸浮視窗",
+        "enable_description": "在其他應用程式上方顯示懸浮按鈕，點擊截圖搜題",
+        "enable_title": "懸浮視窗搜題",
+        "instructions": "1. 啟用懸浮視窗後，會在螢幕上顯示一個懸浮按鈕\n2. 點擊懸浮按鈕將截取當前螢幕\n3. 在裁剪介面選擇題目區域\n4. AI 將自動分析並解答題目",
+        "instructions_title": "使用說明",
+        "permission_required_message": "需要懸浮視窗權限才能在其他應用程式上方顯示搜題按鈕。點擊確認前往系統設定開啟權限。",
+        "permission_required_title": "需要懸浮視窗權限",
+        "start_service_failed": "啟動懸浮視窗服務失敗",
+        "stop_service_failed": "停止懸浮視窗服務失敗",
+        "title": "懸浮視窗搜題"
+      },
+      "joplin": {
+        "check": {
+          "button": "檢查",
+          "empty_token": "請輸入 Joplin 授權令牌",
+          "empty_url": "請輸入 Joplin 剪藏服務 URL",
+          "fail": "Joplin 連接驗證失敗",
+          "success": "Joplin 連接驗證成功"
+        },
+        "export_reasoning": {
+          "help": "啟用後，匯出的內容將包含助理生成的推理鏈（思考過程）。",
+          "title": "在匯出時包含推理鏈"
+        },
+        "help": "點擊此處獲取 Joplin 授權令牌",
+        "title": "Joplin 配置",
+        "token": "Joplin 授權令牌",
+        "token_placeholder": "Joplin 授權令牌",
+        "url": "Joplin Web 剪藏服務 URL",
+        "url_placeholder": "http://127.0.0.1:41184/"
+      },
+      "mcp": {
+        "errors": {
+          "32000": "MCP 伺服器錯誤",
+          "toolNotFound": "工具 '{{name}}' 未找到"
+        }
+      },
+      "modelAndService": "AI 模型與服務",
+      "models": {
+        "add": {
+          "model": {
+            "group": {
+              "label": "模型組",
+              "placeholder": "可選 例如 OpenAI"
+            },
+            "id": {
+              "label": "模型 ID",
+              "placeholder": "必填 例如 gpt-4o"
+            },
+            "label": "添加模型",
+            "name": {
+              "label": "模型名稱",
+              "placeholder": "可選 例如 GPT-4o"
+            }
+          }
+        },
+        "default_model": "預設模型",
+        "empty": {
+          "add_model": "讓我們添加你的第一個模型",
+          "label": "還沒有模型...",
+          "tooltip": "您正在尋找的頁面超出了我們的範圍。對於帶來的不便，我們深感歉意。"
+        },
+        "health_check": {
+          "checking": "檢查中...",
+          "title": "模型健康檢查"
+        },
+        "search": "搜尋模型...",
+        "title": "模型"
+      },
+      "notion": {
+        "api_key": "Notion API 金鑰",
+        "api_key_placeholder": "輸入 Notion API 金鑰",
+        "check": {
+          "button": "檢查",
+          "empty_api_key": "API 金鑰未配置",
+          "empty_database_id": "資料庫 ID 未配置",
+          "error": "連接錯誤，請檢查網路配置和 API 金鑰以及資料庫 ID",
+          "fail": "連接失敗，請檢查網路和 API 金鑰以及資料庫 ID",
+          "success": "連接成功"
+        },
+        "database_id": "Notion 資料庫 ID",
+        "database_id_placeholder": "輸入 Notion 資料庫 ID",
+        "export_reasoning": {
+          "help": "啟用後，匯出的內容將包含助理生成的推理鏈（思考過程）。",
+          "title": "在匯出時包含推理鏈"
+        },
+        "help": "Notion 配置文檔",
+        "page_name_key": "頁面標題欄位名稱",
+        "page_name_key_placeholder": "輸入頁面標題欄位名稱，預設為 Name",
+        "title": "Notion 設定"
+      },
+      "nutstore": {
+        "backupPath": "備份存儲路徑",
+        "backupStatus": "備份狀態",
+        "config": "堅果雲配置",
+        "from_nutstore": "從堅果雲恢復",
+        "login": "使用堅果雲賬戶登錄",
+        "logout": "登出",
+        "nutstore": "堅果雲",
+        "title": "堅果雲同步",
+        "to_nutstore": "備份到堅果雲",
+        "username": "堅果雲用戶名"
+      },
+      "obsidian": {
+        "default_vault": "預設 Obsidian 儲存庫",
+        "default_vault_export_failed": "匯出失敗",
+        "default_vault_fetch_error": "獲取 Obsidian 儲存庫失敗",
+        "default_vault_loading": "正在載入 Obsidian 儲存庫...",
+        "default_vault_no_vaults": "未找到 Obsidian 儲存庫",
+        "default_vault_placeholder": "請選擇預設的 Obsidian 儲存庫",
+        "title": "Obsidian 配置"
+      },
+      "personal": {
+        "name": "使用者名稱",
+        "namePlaceholder": "請輸入您的使用者名稱",
+        "title": "個人設定"
+      },
+      "provider": {
+        "add": {
+          "name": {
+            "label": "提供者名稱",
+            "placeholder": "示例：OpenAI"
+          },
+          "title": "新增提供者",
+          "type": "提供者類型"
+        },
+        "added": "已新增",
+        "api": {
+          "url": {
+            "preview": "預覽：{{url}}",
+            "reset": "重設",
+            "tip": "結尾為 / 忽略 v1，結尾為 # 強制使用輸入地址"
+          }
+        },
+        "api_check": {
+          "confirm_message": "確認開始 API 檢查？",
+          "title": "檢測",
+          "tooltip": "選擇用於檢測的模型"
+        },
+        "api_host": {
+          "label": "API 主機",
+          "placeholder": "請輸入 API 主機"
+        },
+        "api_key": {
+          "get": "獲取 API 金鑰",
+          "label": "API 金鑰",
+          "placeholder": "請輸入 API 金鑰",
+          "tip": "多個鍵以逗號分隔"
+        },
+        "api_service": "API 服務",
+        "auth": {
+          "balance_recharge": "餘額充值",
+          "free_bills": "免費帳單",
+          "login": "登入",
+          "title": "{{provider}} 服務"
+        },
+        "check_failed": {
+          "api_key_empty": "API金鑰不能為空",
+          "model_api_key_empty": "模型和API金鑰不能為空",
+          "model_empty": "模型不能為空",
+          "title": "模型檢查失敗"
+        },
+        "delete": {
+          "content": "您確定要刪除這個提供者嗎？",
+          "title": "刪除提供者"
+        },
+        "edit": {
+          "title": "編輯服務供應商"
+        },
+        "enabled": "開啟",
+        "list": {
+          "title": "提供商列表"
+        },
+        "not_found": "找不到提供商",
+        "not_found_message": "導航到提供商頁面時發生錯誤",
+        "provider_deleted": "提供者已刪除",
+        "search": "搜尋提供者...",
+        "title": "模型提供者"
+      },
+      "proxy": {
+        "title": "代理地址"
+      },
+      "siyuan": {
+        "api_url": "思源筆記 API URL",
+        "api_url_placeholder": "例如：http://127.0.0.1:6806",
+        "box_id": "思源筆記筆記本 ID",
+        "box_id_placeholder": "請輸入思源筆記筆記本 ID",
+        "check": {
+          "button": "檢查",
+          "empty_config": "請填寫 API 地址和令牌",
+          "error": "連接錯誤，請檢查網路連接",
+          "fail": "連接失敗，請檢查 API 地址和令牌",
+          "success": "連接成功",
+          "title": "連接檢查"
+        },
+        "root_path": "思源筆記根路徑",
+        "root_path_placeholder": "例如：/CherryStudio",
+        "title": "思源筆記配置",
+        "token": {
+          "help": "獲取思源筆記 Token",
+          "label": "思源筆記 Token"
+        },
+        "token_placeholder": "請輸入思源筆記 Token"
+      },
+      "theme": {
+        "window": {
+          "style": {
+            "opaque": "不透明窗口",
+            "title": "視窗樣式",
+            "transparent": "透明視窗"
+          }
+        }
+      },
+      "title": "設定",
+      "topic": {
+        "position": {
+          "label": "主題位置",
+          "left": "左側",
+          "right": "右邊"
+        },
+        "show": {
+          "time": "顯示主題時間"
+        }
+      },
+      "tray": {
+        "title": "啟用系統匣圖示"
+      },
+      "webdav": {
+        "backup": {
+          "auto_backup": "自動備份",
+          "from_webdav": "從 WebDAV 還原",
+          "max_backups": "最大備份數",
+          "slim_backup": "精簡備份",
+          "title": "備份設定",
+          "to_webdav": "備份到 WebDAV",
+          "unlimited": "無限制"
+        },
+        "config": {
+          "apply": "應用",
+          "host": "WebDAV 主機",
+          "host_placeholder": "http://localhost:8080",
+          "password": "WebDAV 密碼",
+          "password_hint": "至少需要 8 個字符",
+          "password_placeholder": "WebDAV 密碼",
+          "path": "WebDAV 路徑",
+          "path_placeholder": "WebDAV 路徑",
+          "title": "WebDAV 設定",
+          "user": "WebDAV 使用者",
+          "user_placeholder": "WebDAV 使用者"
+        },
+        "title": "WebDAV"
+      },
+      "websearch": {
+        "api_host": {
+          "label": "API 主機",
+          "placeholder": "請輸入 API 主機"
+        },
+        "api_key": {
+          "get": "獲取 API 金鑰",
+          "label": "API 金鑰",
+          "placeholder": "請輸入 API 金鑰"
+        },
+        "api_service": "API 服務",
+        "blacklist": {
+          "title": "黑名單"
+        },
+        "blacklist_description": "來自以下網站的結果將不會出現在搜尋結果中",
+        "blacklist_placeholder": "請使用以下格式（按行分隔）\n模式匹配：*://*.example.com/*\n正則表達式：/example\\.(net|org)/",
+        "builtin": "內建網路搜尋",
+        "change_provider": "切換網路搜尋服務商",
+        "check_error": "檢查錯誤",
+        "check_fail": "檢查失敗",
+        "check_success": "檢查成功",
+        "check_success_message": "API 運作正常",
+        "contentLengthLimit": "內容長度限制",
+        "empty": {
+          "description": "前往新增供應商",
+          "label": "尚未提供者..."
+        },
+        "overrideSearchService": "覆蓋搜尋服務",
+        "provider": {
+          "api": {
+            "title": "API 服務提供商"
+          },
+          "free": {
+            "title": "免費服務提供商"
+          },
+          "title": "網頁搜尋服務供應商"
+        },
+        "providers": {
+          "bocha": "Bocha",
+          "builtin": "內建",
+          "exa": "Exa",
+          "local-baidu": "Baidu",
+          "local-bing": "Bing",
+          "local-google": "Google",
+          "searxng": "Searxng",
+          "tavily": "Tavily"
+        },
+        "searchCount": "搜尋數量",
+        "searchWithDates": "包含日期搜尋",
+        "selectPlaceholder": "請選擇網頁搜尋提供商...",
+        "subscribe": {
+          "title": "黑名單訂閱"
+        },
+        "title": "網絡搜索"
+      },
+      "yuque": {
+        "check": {
+          "button": "檢查",
+          "empty_repo_url": "請先輸入知識庫 URL",
+          "empty_token": "請先輸入語雀 Token",
+          "fail": "語雀連接驗證失敗",
+          "success": "語雀連接驗證成功"
+        },
+        "help": "獲取語雀 Token",
+        "repo_url": "語雀 URL",
+        "repo_url_placeholder": "https://www.yuque.com/username/xxx",
+        "title": "語雀配置",
+        "token": "語雀 Token",
+        "token_placeholder": "請輸入語雀 Token"
+      }
+    },
+    "topics": {
+      "multi_select": {
+        "action": "多選",
+        "delete_confirm_message": "此操作無法復原。",
+        "delete_confirm_title": "要刪除 {{count}} 個主題嗎？",
+        "delete_success": "已刪除 {{count}} 個主題",
+        "selected_count": "已選 {{count}} 項"
+      },
+      "new_topic": "新主題",
+      "rename": {
+        "title": "重新命名主題"
+      },
+      "select_assistant": "選擇新對話助手",
+      "title": {
+        "label": "主題",
+        "recent": "最近的主題"
+      }
+    },
+    "update": {
+      "description": "有新版本可用，是否立即更新？",
+      "ignore": "不再提示",
+      "now": "立即更新",
+      "title": "發現新版本"
+    },
+    "voice": {
+      "error": "語音識別出錯",
+      "not_available": "語音識別不可用",
+      "permission_denied": "麥克風權限被拒絕",
+      "permission_denied_message": "請在設定中允許 Cherry Studio 存取麥克風",
+      "start": "開始語音輸入",
+      "stop": "停止語音輸入"
+    }
+  }
+}

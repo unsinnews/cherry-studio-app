@@ -1,0 +1,1075 @@
+{
+  "translation": {
+    "assistants": {
+      "market": {
+        "add": {
+          "success": "添加 {{assistant_name}} 成功"
+        },
+        "button": {
+          "chat": "立即聊天"
+        },
+        "groups": {
+          "all": "全部",
+          "business": "业务",
+          "career": "职业生涯",
+          "language": "语言",
+          "tools": "工具"
+        },
+        "my_assistant": "我的助手",
+        "popular": "热门助手",
+        "search_placeholder": "搜索助手...",
+        "title": "助手市场"
+      },
+      "multi_select": {
+        "action": "多选",
+        "delete_confirm_message": "这将同时删除这些助手的所有对话。此操作无法撤销。",
+        "delete_confirm_title": "删除 {{count}} 个助手？",
+        "delete_success": "已删除 {{count}} 个助手",
+        "selected_count": "已选择 {{count}} 项"
+      },
+      "name": "助手名称",
+      "save": "保存助手",
+      "search": {
+        "no_results": "未找到助手"
+      },
+      "settings": {
+        "context": "上下文",
+        "max_tokens": "启用最大token限制",
+        "max_tokens_value": "最大token限制",
+        "reasoning": {
+          "auto": "默认",
+          "high": "沉思",
+          "label": "思考深度",
+          "low": "浮想",
+          "medium": "斟酌",
+          "minimal": "微念",
+          "none": "关闭",
+          "off": "关闭"
+        },
+        "stream_output": "流式输出",
+        "temperature": "温度",
+        "tooluse": {
+          "empty": "未设置工具调用方式",
+          "function": "函数调用",
+          "prompt": "提示词调用",
+          "title": "工具调用方式"
+        },
+        "top_p": "Top P",
+        "unlimited_context": "启用最大上下文限制"
+      },
+      "sort": {
+        "alphabetical": "按字母顺序的",
+        "recent_add": "最近添加",
+        "recent_use": "最近使用",
+        "title": "排序助手"
+      },
+      "title": {
+        "change": "切换助手",
+        "create": "创建助手",
+        "edit": "编辑助手",
+        "label": "助手",
+        "mine": "我的助手",
+        "recent": "最近使用的助手"
+      },
+      "topics": {
+        "count_one": "1 个话题",
+        "count_other": "{{count}} 个话题"
+      }
+    },
+    "button": {
+      "add": "添加",
+      "best_answer": "最佳回复",
+      "checking": "检查中...",
+      "generate_topic_name": "生成话题名称",
+      "image_generate": "图像生成",
+      "manage": "管理",
+      "multiple": "多选",
+      "placeholder": "随便问点什么",
+      "recents": "最近",
+      "rename_topic_name": "编辑话题名称",
+      "save": "保存",
+      "save_image": "保存到“照片”",
+      "select_model": "选择型号",
+      "share": "分享",
+      "sort": "排序",
+      "start_check_model": "让我们开始",
+      "success": "成功 🎉",
+      "tag": "标签",
+      "web_search": "在线搜索"
+    },
+    "chat": {
+      "assistant": {
+        "search": {
+          "placeholder": "搜索助手"
+        }
+      },
+      "citation": "+ {{count}} 个来源",
+      "default": {
+        "name": "默认"
+      },
+      "think": "正在思考 {{seconds}} 秒",
+      "think_done": "已深度思考 {{seconds}} 秒",
+      "think_expand": "点击看穿我的心思",
+      "title": "欢迎使用 Cherry Studio!",
+      "topics": {
+        "list": "列表",
+        "search": {
+          "results": "结果"
+        },
+        "title": "话题"
+      },
+      "welcome": "我是您的生产力 AI 助手。您可以创建助手、管理模型等。"
+    },
+    "common": {
+      "add": "添加",
+      "added": "已添加",
+      "camera": "相机",
+      "cancel": "取消",
+      "check": "开始检查",
+      "cherry_studio": "Cherry Studio",
+      "cherry_studio_description": "强大的 AI 生产力助手",
+      "clear_all": "清除全部",
+      "close": "关闭",
+      "confirm": "确认",
+      "content_too_long": "内容过长无法展示",
+      "copied": "已复制",
+      "copy": "复制文本",
+      "copy_latex": "复制为 LaTeX",
+      "delete": "删除",
+      "delete_translation": "删除翻译",
+      "description": "描述",
+      "detail": "详情",
+      "edit": "编辑",
+      "enabled": "已启用",
+      "error_occurred": "发生错误",
+      "file": "文件",
+      "generateImage": "创建图片",
+      "go_to_settings": "前往设置",
+      "import_from_cherry_studio": "从 Cherry Studio 导入",
+      "language": "语言",
+      "last_month": "上月",
+      "last_week": "上周",
+      "loading": "加载中...",
+      "login": "登录",
+      "manage": "管理",
+      "model": "模型",
+      "name": "名称",
+      "ok": "确定",
+      "older": "更早",
+      "others": "其他",
+      "parameters": "参数",
+      "photo": "照片",
+      "play": "播放",
+      "preset": "预设",
+      "prompt": "提示词",
+      "regenerate": "重新生成",
+      "rename": "重命名",
+      "result": "结果",
+      "save": "保存",
+      "saved": "已保存",
+      "search_placeholder": "搜索...",
+      "see_all": "查看全部",
+      "select_all": "全选",
+      "source": "来源",
+      "start": "开始使用Cherry Studio App 🎉",
+      "stop": "停止",
+      "this_week": "本周",
+      "today": "今天",
+      "tool": "工具",
+      "translate": "翻译",
+      "type": "类型",
+      "url": "URL",
+      "visit": "访问",
+      "websearch": "网络搜索",
+      "welcome": {
+        "message1": "欢迎使用Cherry Studio 🎉",
+        "message2": "开始创作，享受无限可能！"
+      },
+      "yesterday": "昨天"
+    },
+    "error": {
+      "ai_feature": {
+        "not_available": "AI 功能不可用",
+        "update_failed": "AI 功能更新失败，请重试"
+      },
+      "availableProviders": "可用提供商",
+      "availableTools": "可用工具",
+      "backup": {
+        "file_format": "备份文件格式错误",
+        "file_invalid": "备份文件无效，需要在Cherry Studio中通过导出到移动端获取",
+        "title": "备份失败"
+      },
+      "camera": {
+        "failed": "拍照失败，请重试",
+        "file_not_found": "照片文件未找到"
+      },
+      "cause": "原因",
+      "chat": {
+        "response": "出错了，如果没有配置 API 密钥，请前往设置 > 模型服务商中配置密钥"
+      },
+      "content": "内容",
+      "data": "数据",
+      "detail": "错误详情",
+      "errors": "错误列表",
+      "finishReason": "完成原因",
+      "functionality": "功能",
+      "http": {
+        "400": "请求错误，请检查请求参数是否正确。如果修改了模型设置，请重置到默认设置",
+        "401": "身份验证失败，请检查 API 密钥是否正确",
+        "403": "禁止访问，请翻译具体报错信息查看原因，或联系服务商询问被禁止原因",
+        "404": "模型不存在或者请求路径错误",
+        "429": "请求速率超过限制，请稍后再试",
+        "500": "服务器错误，请稍后再试",
+        "502": "网关错误，请稍后再试",
+        "503": "服务不可用，请稍后再试",
+        "504": "网关超时，请稍后再试"
+      },
+      "lastError": "最后错误",
+      "maxEmbeddingsPerCall": "每次调用最大嵌入数",
+      "message": "错误消息",
+      "missing_user_message": "无法切换模型响应：原始用户消息已被删除。请发送新消息以获取此模型的响应",
+      "model": {
+        "exists": "模型已存在"
+      },
+      "modelId": "模型ID",
+      "modelType": "模型类型",
+      "name": "错误名称",
+      "no_api_key": "API 密钥未配置",
+      "originalError": "原始错误",
+      "originalMessage": "原始消息",
+      "parameter": "参数",
+      "pause_placeholder": "已中断",
+      "permission": {
+        "camera_denied": "相机权限被拒绝，请在设置中启用",
+        "media_library_denied": "相册权限被拒绝，请在设置中启用"
+      },
+      "prompt": "提示词",
+      "provider": "提供商",
+      "providerId": "提供商ID",
+      "provider_disabled": "模型服务商未启用",
+      "reason": "原因",
+      "render": {
+        "description": "消息内容渲染失败，请检查消息内容格式是否正确",
+        "title": "渲染错误"
+      },
+      "requestBodyValues": "请求体",
+      "requestUrl": "请求地址",
+      "response": "响应",
+      "responseBody": "响应体",
+      "responseHeaders": "响应头",
+      "responses": "响应",
+      "role": "角色",
+      "stack": "堆栈跟踪",
+      "statusCode": "状态码",
+      "statusText": "状态文本",
+      "text": "文本",
+      "toolInput": "工具输入",
+      "toolName": "工具名称",
+      "translate_assistant_model_not_defined": "翻译助手模型未配置，请前往设置 > 默认助手中配置翻译助手的模型",
+      "unknown": "未知错误",
+      "upload": {
+        "failed": "文件上传失败，请重试"
+      },
+      "usage": "使用情况",
+      "user_message_not_found": "无法找到原始用户消息",
+      "value": "值",
+      "values": "值"
+    },
+    "errors": {
+      "cannotOpenLink": "无法打开链接: {{error}}",
+      "cannotOpenLinkTitle": "无法打开链接",
+      "deviceCannotHandleLink": "您的设备无法处理此链接: {{href}}",
+      "error_title": "错误",
+      "linkErrorTitle": "打开链接出错"
+    },
+    "export": {
+      "already_exporting": "正在导出中",
+      "failed": "导出失败",
+      "image": "导出为图片",
+      "joplin": "导出到 Joplin",
+      "md": {
+        "label": "导出为 Markdown",
+        "reason": "导出为 Markdown (包含思考)"
+      },
+      "notion": "导出到 Notion",
+      "obsidian": "导出到 Obsidian",
+      "obsidian_atributes": "配置笔记属性",
+      "obsidian_btn": "确定",
+      "obsidian_created": "创建时间",
+      "obsidian_created_placeholder": "请选择创建时间",
+      "obsidian_export_failed": "导出到 Obsidian 失败",
+      "obsidian_export_success": "导出到 Obsidian 成功",
+      "obsidian_fetch_error": "获取 Obsidian 保管库失败",
+      "obsidian_fetch_folders_error": "获取文件夹结构失败",
+      "obsidian_loading": "加载中...",
+      "obsidian_no_vault_selected": "请先选择一个保管库",
+      "obsidian_no_vaults": "未找到 Obsidian 保管库",
+      "obsidian_operate": "处理方式",
+      "obsidian_operate_append": "追加",
+      "obsidian_operate_new_or_overwrite": "新建（如果存在就覆盖）",
+      "obsidian_operate_placeholder": "请选择处理方式",
+      "obsidian_operate_prepend": "前置",
+      "obsidian_path": "路径",
+      "obsidian_path_placeholder": "请选择路径",
+      "obsidian_reasoning": "导出思维链",
+      "obsidian_root_directory": "根目录",
+      "obsidian_select_vault_first": "请先选择保管库",
+      "obsidian_source": "来源",
+      "obsidian_source_placeholder": "请输入来源",
+      "obsidian_tags": "标签",
+      "obsidian_tags_placeholder": "请输入标签，多个标签用英文逗号分隔",
+      "obsidian_title": "标题",
+      "obsidian_title_placeholder": "请输入标题",
+      "obsidian_title_required": "标题不能为空",
+      "obsidian_vault": "保管库",
+      "obsidian_vault_placeholder": "请选择保管库名称",
+      "options": {
+        "include_reasoning": "包含推理链",
+        "title": "导出选项"
+      },
+      "siyuan": "导出到思源笔记",
+      "success": "导出成功",
+      "title": "导出消息",
+      "title_naming_failed": "标题生成失败，使用默认标题",
+      "title_naming_success": "标题生成成功",
+      "wait_for_title_naming": "正在生成标题...",
+      "word": "导出为 Word",
+      "yuque": "导出到语雀"
+    },
+    "history": {
+      "search": {
+        "placeholder": "搜索话题或消息...",
+        "topics": {
+          "empty": "未找到话题，按 Enter 搜索所有消息"
+        }
+      },
+      "topics": {
+        "empty": "未找到话题"
+      }
+    },
+    "html_preview": {
+      "loading": "加载 HTML 中...",
+      "title": "HTML 预览"
+    },
+    "inputs": {
+      "longTextConverted": {
+        "message": "粘贴的文本（{{length}} 字符）已自动转换为文件附件",
+        "title": "长文本已转换"
+      },
+      "mentions": "@ {{number}} 个模型",
+      "placeholder": "发送消息..."
+    },
+    "mcp": {
+      "auth": {
+        "auth_required_content": "MCP 服务器“{{name}}”需要 OAuth 认证，是否现在连接？",
+        "auth_required_title": "需要认证",
+        "connect": "连接",
+        "connected": "已连接",
+        "disconnect": "断开",
+        "headers": "自定义请求头",
+        "invalid_json": "JSON格式错误",
+        "invalid_json_content": "请输入有效的JSON格式。",
+        "oauth": "OAuth",
+        "oauth_failed": "OAuth 认证失败",
+        "title": "认证"
+      },
+      "builtin": {
+        "calendar": {
+          "description": "获取系统日历，添加日程"
+        },
+        "fetch": {
+          "description": "从URL中获取网页内容"
+        },
+        "reminder": {
+          "description": "获取、添加、修改、删除提醒事项"
+        },
+        "shortcuts": {
+          "description": "运行 iOS 快捷指令并获取结果"
+        },
+        "time": {
+          "description": "获取当前时间"
+        }
+      },
+      "market": {
+        "add": {
+          "success": "已添加 {{mcp_name}}"
+        },
+        "title": "MCP市场"
+      },
+      "server": {
+        "add": "添加 MCP 服务器",
+        "delete": {
+          "content": "确定要删除此 MCP 服务器吗？此操作无法撤销。",
+          "title": "删除服务器"
+        },
+        "description_placeholder": "输入 MCP 服务器的描述...",
+        "empty": {
+          "add": "前往添加MCP服务器",
+          "label": "暂无MCP服务器..."
+        },
+        "new": "新 MCP 服务器",
+        "selected": "已选择{{num}}个MCP服务器",
+        "title": "MCP服务器",
+        "update_failed": "更新 {{name}} 失败"
+      },
+      "type": {
+        "inMemory": "内置",
+        "sse": "服务器发送事件",
+        "streamableHttp": "StreamableHTTP"
+      }
+    },
+    "menu": {
+      "assistant": {
+        "recent": "最新助手",
+        "title": "助手"
+      },
+      "search_placeholder": "搜索...",
+      "see_all": "查看全部",
+      "topic": {
+        "recent": "最近的话题",
+        "title": "话题"
+      }
+    },
+    "message": {
+      "assistant_deleted": "助手已删除",
+      "delete_message": "删除消息",
+      "delete_message_confirmation": "您确定要删除这条消息吗？",
+      "delete_topic": "删除话题",
+      "delete_topic_confirmation": "您确定要删除这个话题吗？",
+      "delete_translation": "删除翻译",
+      "edit_failed": {
+        "content": "消息编辑失败，请重试",
+        "title": "编辑失败"
+      },
+      "edit_reply": "编辑回复",
+      "editing_message": "编辑",
+      "marked_as_best_answer": "已标记为最佳回复",
+      "pause_failed": {
+        "content": "暂停失败，请重试",
+        "title": "暂停失败"
+      },
+      "searching": "正在搜索...",
+      "send_failed": {
+        "content": "消息发送失败，请重试",
+        "title": "发送失败"
+      },
+      "share_message": "分享消息",
+      "topic_deleted": "话题已删除",
+      "translate_message": "翻译消息",
+      "unmarked_as_best_answer": "已取消最佳回复标记",
+      "websearch": {
+        "fetch_complete": "已完成 {{count}} 次搜索..."
+      }
+    },
+    "models": {
+      "no_models": "暂无可用模型",
+      "type": {
+        "all": "全部",
+        "embedding": "嵌入",
+        "free": "免费",
+        "function_calling": "工具",
+        "reasoning": "推理",
+        "rerank": "重排",
+        "select": "选择模型类型",
+        "text": "文本",
+        "vision": "视觉",
+        "websearch": "网络搜索"
+      }
+    },
+    "profile": {
+      "avatar": "用户头像",
+      "create": "前往创建",
+      "createFirstAgent": "点击创建第一个AI智能体",
+      "editProfile": "编辑个人资料",
+      "noContent": "还没有{{type}}内容"
+    },
+    "provider": {
+      "302ai": "302.AI",
+      "aihubmix": "AiHubMix",
+      "alayanew": "Alaya NeW",
+      "anthropic": "Anthropic",
+      "aws-bedrock": "AWS Bedrock",
+      "azure-openai": "Azure OpenAI",
+      "baichuan": "百川",
+      "baidu-cloud": "百度云千帆",
+      "burncloud": "BurnCloud",
+      "cephalon": "Cephalon",
+      "cherryai": "CherryAI",
+      "cherryin": "CherryIN",
+      "copilot": "GitHub Copilot",
+      "dashscope": "阿里云百炼",
+      "deepseek": "深度求索",
+      "dmxapi": "DMXAPI",
+      "doubao": "火山引擎",
+      "fireworks": "Fireworks",
+      "gemini": "Gemini",
+      "gitee-ai": "模力方舟",
+      "github": "GitHub Models",
+      "gpustack": "GPUStack",
+      "grok": "Grok",
+      "groq": "Groq",
+      "hunyuan": "腾讯混元",
+      "hyperbolic": "Hyperbolic",
+      "infini": "无问芯穹",
+      "jina": "Jina",
+      "lanyun": "蓝耘科技",
+      "lmstudio": "LM Studio",
+      "minimax": "MiniMax",
+      "mistral": "Mistral",
+      "modelscope": "ModelScope 魔搭",
+      "moonshot": "月之暗面",
+      "new-api": "New API",
+      "nvidia": "英伟达",
+      "o3": "O3",
+      "ocoolai": "ocoolAI",
+      "ollama": "Ollama",
+      "openai": "OpenAI",
+      "openrouter": "OpenRouter",
+      "perplexity": "Perplexity",
+      "ph8": "PH8 大模型开放平台",
+      "poe": "Poe",
+      "ppio": "PPIO 派欧云",
+      "qiniu": "七牛云 AI 推理",
+      "qwenlm": "QwenLM",
+      "silicon": "硅基流动",
+      "stepfun": "阶跃星辰",
+      "tencent-cloud-ti": "腾讯云 TI",
+      "together": "Together",
+      "tokenflux": "TokenFlux",
+      "vertexai": "Vertex AI",
+      "voyageai": "Voyage AI",
+      "xirang": "天翼云息壤",
+      "yi": "零一万物",
+      "zhinao": "360 智脑",
+      "zhipu": "智谱 AI"
+    },
+    "settings": {
+      "about": {
+        "contact": {
+          "button": "邮件",
+          "title": "联系我们"
+        },
+        "feedback": {
+          "button": "反馈",
+          "title": "反馈"
+        },
+        "header": "关于 & 反馈",
+        "license": {
+          "button": "许可",
+          "title": "许可"
+        },
+        "releases": {
+          "button": "发行版本",
+          "title": "发行说明"
+        },
+        "title": "关于我们",
+        "website": {
+          "button": "网站",
+          "title": "官方网站"
+        }
+      },
+      "assistant": {
+        "default_assistant": {
+          "description": "创建新助手时使用的助手，如果未设置助手，将使用此助手",
+          "name": "默认助手"
+        },
+        "empty": "还没有助手...",
+        "quick_assistant": {
+          "description": "用于简单任务的助手，例如话题命名和关键字提取",
+          "name": "快速助手"
+        },
+        "show": {
+          "icon": "显示模型图标"
+        },
+        "title": "默认助手",
+        "translate_assistant": {
+          "description": "用于翻译服务的助手",
+          "name": "翻译助手"
+        }
+      },
+      "data": {
+        "app_data": "应用数据",
+        "app_data_location": "应用数据位置",
+        "app_knowledge": {
+          "label": "知识库文件",
+          "remove_all": "删除文件"
+        },
+        "app_logs": "应用日志",
+        "backup": "数据备份",
+        "basic_title": "基础数据设置",
+        "clear_cache": {
+          "button": "清除缓存 ({{cacheSize}})",
+          "error": "清除缓存失败。请重试，如果问题持续存在，请在GitHub上反馈。",
+          "title": "清除缓存",
+          "warning": "清除缓存将删除所有缓存数据，包括缓存文件，图片和备份。"
+        },
+        "cloud_backup": "云端备份设置",
+        "data": {
+          "title": "数据目录"
+        },
+        "data_reset": {
+          "error": "数据重置失败。请重试，如果问题持续存在，请联系技术支持。"
+        },
+        "lan_transfer": {
+          "app_version": "应用版本",
+          "back_cancel_receive_body": "返回将会取消当前正在接收的文件，是否继续？",
+          "back_cancel_receive_title": "返回将取消接收",
+          "backup_detected_body": "检测到备份文件，是否进行恢复？",
+          "backup_detected_title": "检测到备份文件",
+          "cancel_receive": "取消接收",
+          "chunks": "分块",
+          "connected": "已连接",
+          "device": "设备",
+          "device_name": "设备名称",
+          "error": "错误",
+          "eta": "预计剩余",
+          "file_status": {
+            "cancelled": "已取消",
+            "cancelling": "正在取消...",
+            "complete": "已完成",
+            "completing": "完成中...",
+            "error": "错误",
+            "idle": "空闲",
+            "receiving": "接收中",
+            "verifying": "校验中..."
+          },
+          "file_transfer": "文件传输",
+          "hint": "请在桌面端 Cherry Studio 中选择此设备发送备份",
+          "info": "传输信息",
+          "ip_address": "IP 地址",
+          "no_connection_warning": "请在Cherry Studio客户端打开局域网传输",
+          "port": "端口",
+          "preparing": "准备中...",
+          "receiving": "正在接收文件...",
+          "restore_confirm": "恢复",
+          "restore_later": "稍后",
+          "service": "服务",
+          "start_service": "开始接收",
+          "status": "状态",
+          "stop_service": "停止服务",
+          "title": "局域网传输",
+          "transfer_cancelled_body": "文件发送已取消",
+          "transfer_cancelled_title": "传输已取消",
+          "transfer_error": "传输错误",
+          "unknown": "未知",
+          "waiting_connection": "等待桌面端连接...",
+          "warning_content": "此操作将清除现有数据并从桌面端恢复。请确保已备份重要数据。",
+          "warning_title": "注意",
+          "zeroconf_error": "服务发现错误"
+        },
+        "log_location": "日志文件位置",
+        "reset": "数据重置",
+        "reset_success": "数据重置成功！应用已恢复到初始状态。",
+        "reset_warning": "您确定要重置所有数据吗？这将删除所有对话、消息和用户创建的内容。此操作无法撤销。",
+        "restore": {
+          "clear_error": "清除现有数据失败，请重试。",
+          "confirm_warning": "恢复操作将使用备份数据覆盖当前所有应用数据。",
+          "error": "恢复错误",
+          "error_message": "恢复过程中出现错误，请检查文件并重试。",
+          "progress": {
+            "error": "恢复错误",
+            "error_description": "还原过程中出现错误。请检查文件后重试。",
+            "pending": "恢复中...",
+            "pending_description": "正在恢复数据，请稍候...",
+            "success": "恢复成功",
+            "success_description": "恢复成功，祝您使用愉快！"
+          },
+          "steps": {
+            "clear_data": "清理现有数据",
+            "receive_file": "接收文件",
+            "restore_messages": "恢复消息",
+            "restore_settings": "恢复配置"
+          },
+          "title": "数据恢复"
+        },
+        "third_party": "第三方连接",
+        "title": "数据设置"
+      },
+      "dataAndSecurity": "数据与安全",
+      "general": {
+        "developer_mode": {
+          "title": "开发者模式"
+        },
+        "display": {
+          "title": "显示设置"
+        },
+        "language": {
+          "title": "语言"
+        },
+        "privacy": {
+          "anonymous": "匿名报告错误和统计",
+          "title": "隐私设置"
+        },
+        "theme": {
+          "auto": "自动",
+          "dark": "深色",
+          "light": "浅色",
+          "title": "主题"
+        },
+        "title": "常规设置"
+      },
+      "floatingwindow": {
+        "android_only": "此功能仅支持 Android",
+        "auto_close_result": "自动关闭结果面板",
+        "auto_close_result_description": "回答显示后自动关闭结果面板",
+        "behavior_title": "行为设置",
+        "button_size_large": "大",
+        "button_size_medium": "中",
+        "button_size_small": "小",
+        "button_size_title": "按钮大小",
+        "enable": "启用悬浮窗",
+        "enable_description": "在其他应用上方显示悬浮按钮，点击截图搜题",
+        "enable_title": "悬浮窗搜题",
+        "instructions": "1. 启用悬浮窗后，会在屏幕上显示一个悬浮按钮\n2. 点击悬浮按钮将截取当前屏幕\n3. 在裁剪界面选择题目区域\n4. AI 将自动分析并解答题目",
+        "instructions_title": "使用说明",
+        "permission_required_message": "需要悬浮窗权限才能在其他应用上方显示搜题按钮。点击确认前往系统设置开启权限。",
+        "permission_required_title": "需要悬浮窗权限",
+        "start_service_failed": "启动悬浮窗服务失败",
+        "stop_service_failed": "停止悬浮窗服务失败",
+        "title": "悬浮窗搜题"
+      },
+      "joplin": {
+        "check": {
+          "button": "检查",
+          "empty_token": "请输入 Joplin 授权令牌",
+          "empty_url": "请输入 Joplin 剪藏服务 URL",
+          "fail": "Joplin 连接验证失败",
+          "success": "Joplin 连接验证成功"
+        },
+        "export_reasoning": {
+          "help": "启用后，导出的内容将包含助手生成的推理链（思考过程）。",
+          "title": "在导出时包含推理链"
+        },
+        "help": "点击此处获取 Joplin 授权令牌",
+        "title": "Joplin 配置",
+        "token": "Joplin 授权令牌",
+        "token_placeholder": "Joplin 授权令牌",
+        "url": "Joplin Web 剪藏服务 URL",
+        "url_placeholder": "http://127.0.0.1:41184/"
+      },
+      "mcp": {
+        "errors": {
+          "32000": "MCP 服务器错误",
+          "toolNotFound": "工具 '{{name}}' 未找到"
+        }
+      },
+      "modelAndService": "AI模型与服务",
+      "models": {
+        "add": {
+          "model": {
+            "group": {
+              "label": "模型组",
+              "placeholder": "可选，例如 OpenAI"
+            },
+            "id": {
+              "label": "模型 ID",
+              "placeholder": "必填，例如 gpt-4o"
+            },
+            "label": "添加模型",
+            "name": {
+              "label": "模型名称",
+              "placeholder": "可选，例如 GPT-4o"
+            }
+          }
+        },
+        "default_model": "默认模型",
+        "empty": {
+          "add_model": "让我们添加你的第一个模型。",
+          "label": "尚未有模型...",
+          "tooltip": "您查找的页面超出了我们的范围。给您带来的不便，我们深表歉意。"
+        },
+        "health_check": {
+          "checking": "检查中...",
+          "title": "模型健康检查"
+        },
+        "search": "搜索模型...",
+        "title": "模型"
+      },
+      "notion": {
+        "api_key": "Notion API 密钥",
+        "api_key_placeholder": "输入 Notion API 密钥",
+        "check": {
+          "button": "检查",
+          "empty_api_key": "API 密钥未配置",
+          "empty_database_id": "数据库 ID 未配置",
+          "error": "连接错误，请检查网络配置和 API 密钥以及数据库 ID",
+          "fail": "连接失败，请检查网络和 API 密钥以及数据库 ID",
+          "success": "连接成功 🎉"
+        },
+        "database_id": "Notion 数据库 ID",
+        "database_id_placeholder": "输入 Notion 数据库 ID",
+        "export_reasoning": {
+          "help": "启用后，导出的内容将包含助手生成的推理链（思考过程）。",
+          "title": "在导出时包含推理链"
+        },
+        "help": "Notion 配置文档",
+        "page_name_key": "页面标题字段名",
+        "page_name_key_placeholder": "输入页面标题字段名，默认为 Name",
+        "title": "Notion 设置"
+      },
+      "nutstore": {
+        "backupPath": "备份存储路径",
+        "backupStatus": "备份状态",
+        "config": "坚果云配置",
+        "from_nutstore": "从坚果云恢复",
+        "login": "使用坚果云账户登录",
+        "logout": "退出登录",
+        "nutstore": "坚果云",
+        "title": "坚果云同步",
+        "to_nutstore": "备份到坚果云",
+        "username": "坚果云用户名"
+      },
+      "obsidian": {
+        "default_vault": "默认 Obsidian 仓库",
+        "default_vault_export_failed": "导出失败",
+        "default_vault_fetch_error": "获取 Obsidian 仓库失败",
+        "default_vault_loading": "正在加载 Obsidian 仓库...",
+        "default_vault_no_vaults": "未找到 Obsidian 仓库",
+        "default_vault_placeholder": "请选择默认的 Obsidian 仓库",
+        "title": "Obsidian 配置"
+      },
+      "personal": {
+        "name": "用户名",
+        "namePlaceholder": "请输入用户名",
+        "title": "个人设置"
+      },
+      "provider": {
+        "add": {
+          "name": {
+            "label": "服务商名称",
+            "placeholder": "示例：OpenAI"
+          },
+          "title": "添加服务商",
+          "type": "服务商类型"
+        },
+        "added": "已添加",
+        "api": {
+          "url": {
+            "preview": "预览: {{url}}",
+            "reset": "重置",
+            "tip": "以 / 结尾忽略 v1，以 # 结尾强制使用输入地址"
+          }
+        },
+        "api_check": {
+          "confirm_message": "确认开始 API 检查？",
+          "title": "检测",
+          "tooltip": "选择用于检测的模型"
+        },
+        "api_host": {
+          "label": "API 主机",
+          "placeholder": "请输入 API 主机"
+        },
+        "api_key": {
+          "get": "获取 API 密钥",
+          "label": "API 密钥",
+          "placeholder": "请输入 API 密钥",
+          "tip": "多个密钥用逗号分隔"
+        },
+        "api_service": "API 服务",
+        "auth": {
+          "balance_recharge": "余额充值",
+          "free_bills": "免费额度",
+          "login": "登录",
+          "title": "{{provider}}服务"
+        },
+        "check_failed": {
+          "api_key_empty": "API密钥不能为空",
+          "model_api_key_empty": "模型和API密钥不能为空",
+          "model_empty": "模型不能为空",
+          "title": "模型检查失败"
+        },
+        "delete": {
+          "content": "您确定要删除此服务商吗？",
+          "title": "删除服务商"
+        },
+        "edit": {
+          "title": "编辑服务商"
+        },
+        "enabled": "开启",
+        "list": {
+          "title": "服务商列表"
+        },
+        "not_found": "未找到服务商",
+        "not_found_message": "导航到服务商页面时出现错误",
+        "provider_deleted": "服务商已删除",
+        "search": "搜索服务商...",
+        "title": "模型服务商"
+      },
+      "proxy": {
+        "title": "代理地址"
+      },
+      "siyuan": {
+        "api_url": "思源笔记 API URL",
+        "api_url_placeholder": "例如：http://127.0.0.1:6806",
+        "box_id": "思源笔记笔记本 ID",
+        "box_id_placeholder": "请输入思源笔记笔记本 ID",
+        "check": {
+          "button": "检查",
+          "empty_config": "请填写 API 地址和令牌",
+          "error": "连接错误，请检查网络连接",
+          "fail": "连接失败，请检查 API 地址和令牌",
+          "success": "连接成功",
+          "title": "连接检查"
+        },
+        "root_path": "思源笔记根路径",
+        "root_path_placeholder": "例如：/CherryStudio",
+        "title": "思源笔记配置",
+        "token": {
+          "help": "获取思源笔记 Token",
+          "label": "思源笔记 Token"
+        },
+        "token_placeholder": "请输入思源笔记 Token"
+      },
+      "theme": {
+        "window": {
+          "style": {
+            "opaque": "不透明窗口",
+            "title": "窗口样式",
+            "transparent": "透明窗口"
+          }
+        }
+      },
+      "title": "设置",
+      "topic": {
+        "position": {
+          "label": "话题位置",
+          "left": "左侧",
+          "right": "正确"
+        },
+        "show": {
+          "time": "显示话题时间"
+        }
+      },
+      "tray": {
+        "title": "启用系统托盘图标"
+      },
+      "webdav": {
+        "backup": {
+          "auto_backup": "自动备份",
+          "from_webdav": "从 WebDAV 恢复",
+          "max_backups": "最大备份数",
+          "slim_backup": "精简备份",
+          "title": "备份设置",
+          "to_webdav": "备份到 WebDAV",
+          "unlimited": "无限制"
+        },
+        "config": {
+          "apply": "应用",
+          "host": "WebDAV 主机",
+          "host_placeholder": "http://localhost:8080",
+          "password": "WebDAV 密码",
+          "password_hint": "至少需要 8 个字符",
+          "password_placeholder": "WebDAV 密码",
+          "path": "WebDAV 路径",
+          "path_placeholder": "WebDAV 路径",
+          "title": "WebDAV 配置",
+          "user": "WebDAV 用户",
+          "user_placeholder": "WebDAV 用户"
+        },
+        "title": "WebDAV"
+      },
+      "websearch": {
+        "api_host": {
+          "label": "API 主机",
+          "placeholder": "请输入 API 主机"
+        },
+        "api_key": {
+          "get": "获取 API 密钥",
+          "label": "API 密钥",
+          "placeholder": "请输入 API 密钥"
+        },
+        "api_service": "API 服务",
+        "blacklist": {
+          "title": "黑名单"
+        },
+        "blacklist_description": "来自以下网站的结果将不会出现在搜索结果中",
+        "blacklist_placeholder": "请使用以下格式（按行分隔）\n模式匹配：*://*.example.com/*\n正则表达式：/example\\.(net|org)/",
+        "builtin": "内置网络搜索",
+        "change_provider": "切换网络搜索服务商",
+        "check_error": "检查错误",
+        "check_fail": "检查失败",
+        "check_success": "检查成功 🎉",
+        "check_success_message": "API 连接正常",
+        "contentLengthLimit": "内容长度限制",
+        "empty": {
+          "description": "前往添加服务商",
+          "label": "暂无服务商..."
+        },
+        "overrideSearchService": "覆盖搜索服务",
+        "provider": {
+          "api": {
+            "title": "API 服务服务商"
+          },
+          "free": {
+            "title": "免费服务服务商"
+          },
+          "title": "网络搜索服务服务商"
+        },
+        "providers": {
+          "bocha": "Bocha",
+          "builtin": "内置",
+          "exa": "Exa",
+          "local-baidu": "Baidu",
+          "local-bing": "Bing",
+          "local-google": "Google",
+          "searxng": "Searxng",
+          "tavily": "Tavily"
+        },
+        "searchCount": "搜索数量",
+        "searchWithDates": "包含日期搜索",
+        "selectPlaceholder": "请选择网页搜索服务商...",
+        "subscribe": {
+          "title": "黑名单订阅"
+        },
+        "title": "网络搜索"
+      },
+      "yuque": {
+        "check": {
+          "button": "检查",
+          "empty_repo_url": "请先输入知识库 URL",
+          "empty_token": "请先输入语雀 Token",
+          "fail": "语雀连接验证失败",
+          "success": "语雀连接验证成功"
+        },
+        "help": "获取语雀 Token",
+        "repo_url": "语雀 URL",
+        "repo_url_placeholder": "https://www.yuque.com/username/xxx",
+        "title": "语雀配置",
+        "token": "语雀 Token",
+        "token_placeholder": "请输入语雀 Token"
+      }
+    },
+    "topics": {
+      "multi_select": {
+        "action": "多选",
+        "delete_confirm_message": "此操作无法撤销。",
+        "delete_confirm_title": "删除 {{count}} 个话题？",
+        "delete_success": "已删除 {{count}} 个话题",
+        "selected_count": "已选 {{count}} 项"
+      },
+      "new_topic": "新话题",
+      "rename": {
+        "title": "重命名话题"
+      },
+      "select_assistant": "选择新对话助手",
+      "title": {
+        "label": "话题",
+        "recent": "最近的话题"
+      }
+    },
+    "update": {
+      "description": "有新版本可用，是否立即更新？",
+      "ignore": "不再提示",
+      "now": "立即更新",
+      "title": "发现新版本"
+    },
+    "voice": {
+      "error": "语音识别出错",
+      "not_available": "语音识别不可用",
+      "permission_denied": "麦克风权限被拒绝",
+      "permission_denied_message": "请在设置中允许 Cherry Studio 访问麦克风",
+      "start": "开始语音输入",
+      "stop": "停止语音输入"
+    }
+  }
+}
