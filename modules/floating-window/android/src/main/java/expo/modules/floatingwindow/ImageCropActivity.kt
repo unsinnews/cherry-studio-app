@@ -194,6 +194,10 @@ class ImageCropActivity : Activity() {
         return (dp * resources.displayMetrics.density).toInt()
     }
 
+    private enum class TouchMode {
+        NONE, DRAG, RESIZE_TL, RESIZE_TR, RESIZE_BL, RESIZE_BR
+    }
+
     /**
      * Custom view for crop selection overlay
      */
@@ -223,10 +227,6 @@ class ImageCropActivity : Activity() {
 
         private val cornerSize = dpToPx(24).toFloat()
         private val minCropSize = dpToPx(50).toFloat()
-
-        private enum class TouchMode {
-            NONE, DRAG, RESIZE_TL, RESIZE_TR, RESIZE_BL, RESIZE_BR
-        }
 
         init {
             // Initialize with center crop rect
